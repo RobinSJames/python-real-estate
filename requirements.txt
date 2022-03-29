@@ -38,7 +38,7 @@ nbformat==4.4.0
 notebook==5.7.9
 packaging==20.3
 pandocfilters==1.4.2
-paramiko==2.6.0
+paramiko==2.10.1
 pathlib2==2.3.5
 pexpect==4.8.0
 pickleshare==0.7.5
